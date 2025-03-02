@@ -1,2 +1,2 @@
 export const serverUrl =
-  import.meta.env.VITE_SERVER_URL || "https://url-shortner-c5m5gzwwb-demonssvzs-projects.vercel.app";
+  import.meta.env.VITE_SERVER_URL || "https://url-shortner-obp5.vercel.app/";
