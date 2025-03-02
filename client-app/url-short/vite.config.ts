@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   server: {
     open: true,
-    port: 3000,
+    port: "https://url-shortner-n86u.vercel.app",
   },
 });
