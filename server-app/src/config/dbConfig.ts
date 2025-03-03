@@ -1,7 +1,7 @@
 // import mongoose from "mongoose";
 
 const mongoose = require('mongoose');
-const uri = "mongodb+srv://user1:pass@cluster0.r9beg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "mongodb+srv://<user>: <password>";
 
  
 
